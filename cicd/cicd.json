@@ -1,0 +1,8 @@
+{
+    "IMAGE": "crypwal-be-nft-module",
+    "CLUSTER": "crypto",
+    "PROJECT": "crypwal",
+    "DEPLOYMENT": "crypwal-be-nft-module",
+    "NODETYPE": "back",
+    "PORT": "3340"
+}
